@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Posdoc in Pengcheng Laboratory"
+title                    : "HOME PAGE"
 title_separator          : "-"
 name                     : &name "Zhang Yawen"
 description              : &description "personal description"
@@ -25,8 +25,8 @@ author:
   avatar           : "zyw-selfie.JPG"
   name             : "Zhang Yawen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Nanshan, Shenzhen，China"
+  bio              : "Posdoc in Peng Cheng Laboratory"
+  location         : "China, Shenzhen"
   employer         : "Pengcheng Laboratory"
   uri              : # URL
   email            : "zhangyw02@pcl.ac.cn" 
