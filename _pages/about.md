@@ -1,14 +1,20 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yawen Zhang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-557658768768
-rtertertrtyertrtyertyertebnhkvhjgjlglj
-tretrertertyThis is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Yawen Zhang, female, is currently a postdoctoral researcher at Pengcheng Laboratory. My research interests encompass human-robot interaction (HRI), artificial intelligence (AI), virtual/augmented reality (VR/AR), physiological signal analysis, eye tracking, large language models (LLMs), and medical data processing.
+
+I am supervised by [Prof. Bertram Emil Shi](https://seng.hkust.edu.hk/about/people/faculty/bertram-emil-shi) of Neuromorphic Lab from [Electronic and Computer Engineering], Hong Kong University of Science and Technology.
+
+You can find my CV here: [Zhang Yawen's Curriculum](../_data/GLG_CV_ZYW_update.pdf)
+
+[Email](mailto:zhangyw02@pcl.ac.cn/yzhangdy@connect.ust.hk)/ [Wechat]()
+
+[GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
