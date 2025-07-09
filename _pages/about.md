@@ -8,7 +8,7 @@ redirect_from:
 ---
 Yawen Zhang, female, is currently a postdoctoral researcher at Pengcheng Laboratory. My research interests encompass human-robot interaction (HRI), artificial intelligence (AI), virtual/augmented reality (VR/AR), physiological signal analysis, eye tracking, large language models (LLMs), and medical data processing.
 
-I am supervised by [Prof. Bertram Emil Shi](https://seng.hkust.edu.hk/about/people/faculty/bertram-emil-shi) of Neuromorphic Lab from [Electronic and Computer Engineering], Hong Kong University of Science and Technology.
+I am graduated from Department of [Electronic and Computer Engineering], Hong Kong University of Science and Technology, and I am supervised by [Prof. Bertram Emil Shi](https://seng.hkust.edu.hk/about/people/faculty/bertram-emil-shi) of Neuromorphic Lab.
 
 You can find my CV here: [Zhang Yawen's Curriculum](../_data/GLG_CV_ZYW_update.pdf)
 
